@@ -1,5 +1,5 @@
 package Vinay123;
 
-public enum WebDriver {
+public enum WebDriver1 {
 
 }
